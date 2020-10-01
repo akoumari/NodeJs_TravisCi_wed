@@ -1,8 +1,5 @@
-## Status Image
-
-[![Build Status](https://travis-ci.org/akoumari/NodeJs_TravisCi_wed.svg?branch=master)](https://travis-ci.org/akoumari/NodeJs_TravisCi_wed)
-
 # Creating node Project
+[![Build Status](https://travis-ci.org/akoumari/NodeJs_TravisCi_wed.svg?branch=master)](https://travis-ci.org/akoumari/NodeJs_TravisCi_wed)
 
 - mkdir week03_node_example
 - cd week03_node_example
