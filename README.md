@@ -1,3 +1,7 @@
+## Status Image
+
+[![Build Status](https://travis-ci.org/akoumari/NodeJs_TravisCi_wed.svg?branch=master)](https://travis-ci.org/akoumari/NodeJs_TravisCi_wed)
+
 # Creating node Project
 
 - mkdir week03_node_example
@@ -34,6 +38,3 @@ Using nodemon you can speed up the development process and you can install as a 
 
 
 
-## Status Image
-
-[![Build Status](https://travis-ci.org/akoumari/NodeJs_TravisCi_wed.svg?branch=master)](https://travis-ci.org/akoumari/NodeJs_TravisCi_wed)
